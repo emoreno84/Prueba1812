@@ -8,8 +8,6 @@ public class Main {
         int opcion = 0;
         String nombre = "Juan";
         String apellido = "Pardo";
-        Integer longitudNombre = nombre.length();
-        Integer longitudApellido = apellido.length();
 
         String id;
         String tipo;
