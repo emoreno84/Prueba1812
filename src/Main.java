@@ -63,11 +63,9 @@ public class Main {
                         encontrado = true;
                     }
                 }
-                if(!encontrado){
-                    System.out.println("***********************************");
-                    System.out.println("**** PRODUCTO NO ENCONTRADO *******");
-                    System.out.println("***********************************");
-                }
+                System.out.println("***********************************");
+                System.out.println("**** PRODUCTO NO ENCONTRADO *******");
+                System.out.println("***********************************");
             } else if (opcion == 3) {
                 System.out.println("Adios...");
                 break;
