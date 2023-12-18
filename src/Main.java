@@ -63,6 +63,8 @@ public class Main {
                         System.out.println("PRECIO: " + prod.precio);
                         System.out.println("MODELO: " + prod.modelo);
                         System.out.println("********************************");
+                        System.out.println("********************************");
+                        System.out.println("********************************");
                         encontrado = true;
                     }
                 }
