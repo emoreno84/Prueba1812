@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         int opcion = 0;
+        String nombre;
+        String apellido;
         String id;
         String tipo;
         double precio;
